@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+###AceReader 4.0
 
-You can use the [editor on GitHub](https://github.com/jbot-42/jbot-42.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Summary:  Is it just me, or does there seem to be a lot more information to absorb in our lives nowadays? If I were to draw up a list of everything that I had to read and take-in on a typical day (not even including spoken word, television and other audio/visual stimulation), I have a nasty feeling the list would be staggering. Maybe thats why I always seem to be forgetting things.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Reading is such an important skill, yet one that we seem to neglect; we learn the basics, but never really refine the process at all. Think about this - as youre reading this right now, are you hearing the words in your mind? Is it your voice? Now Im no expert in this field, but I should imagine that the brain is capable of receiving and processing information far faster than we are at verbalising it - whether out loud or in our heads. So why do we do it? Doesnt this slow us down? Well
 
-### Markdown
+StepWares AceReader is described as a "productivity and self-improvement educational reading tool" - a bit of a mouthful that basically says that it improves your reading skills. "A speed-reading tool" I hear you ask? No, not exactly. AceReader DOES speed up your reading speed significantly, but theres a whole lot more to it than that. Read on
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Features:  The idea behind AceReader is to break two bad-habits. Subvocalisation (pronouncing the words in your head while reading) and re-reading (letting your eyes go back and re-read text). The key principle behind the software is that by developing higher reading-speeds, it becomes impossible to do both of these things and it actually seems to work.
 
-```markdown
-Syntax highlighted code block
+How does the software develop your reading speeds? With two techniques - rapid serial visual presentation (RSVP) and the grandly-named taichistoscopic scroll presentation (TSP). Somewhat over-bearing names for some simple but clever ideas. RSVP involves flashing each individual word, one a time, in the very centre of the text area; meaning that your eyes stay motionless while the text comes to you. TSP on the other hand involves the text being displayed in a normal reading manner - several words at a time.
 
-# Header 1
-## Header 2
-### Header 3
+Okay - two questions I hear. What can I use it for, and does it work? There are a number of possible uses. The software can be used with text from the clipboard - meaning that you can copy and paste text from your word processor, email program whatever you like. But in my opinion its main use is as an educational tool. If you use the software to develop your reading skills by breaking the habit of pronouncing each word in your head, then the speed of your reading will increase. The software allows you to control the speed of the exercises, and also allows you to evaluate and monitor your progress. You can actually improve your reading speed by two or even three times!
 
-- Bulleted
-- List
+One of the people evaluating this software pointed out that she wouldnt want her reading speed to increase - she enjoys curling up with a book and has no wish to fly through a paperback every half-hour! And I would agree - but theres no doubt that having the ability to race through a document when you wish to do so is an extremely useful skill. I myself read through a fairly large amount of text and correspondence every day; most of which I am quite happy to get through as fast as possible.
 
-1. Numbered
-2. List
+Does it work? Yes! The built-in reading and comprehension tests make sure that you are absorbing the information at your selected speed, which is monitored at all times. Within a few days of using this software I found myself able to shift into high gear and read through a document at more than twice the speed I was managing before. Now thats useful.
 
-**Bold** and _Italic_ and `Code` text
+Overall, it has to be said - this is one well-written piece of software. The interface is very clear and intuitive, and while the new user would be well advised to read the help file, its certainly possible to just jump-in and start using the program; isnt that what we all want? Even using the more advanced options, modes and settings is very easy to work out and even the casual user should soon find themselves gripped by the program. Why? Its fascinating - and it really does seem to work.
 
-[Link](url) and ![Image](src)
-```
+Problems:  Two minor reservations came to mind at the end of evaluating this software. The first was that while the actual SPEED improves, it is difficult to ascertain what effect this has on absorption and retention of the content. To be sure of this I would have to turn to a professional in this field, but in our informal testing, we didnt encounter any problems at all. The only criticism I would have concerns the test files. It is possible to add your own tests (which is a fantastic feature) but doing so is not the easiest of processes, and I cant help feel that there might have been an easier way of doing so.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Support:  Registered users are entitled to 90 days support, although no problem will actually be turned away, registered or otherwise.
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jbot-42/jbot-42.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Conclusion:  Setting a rating for many of the programs that we review is extremely difficult, but not so in this case. Does the software achieve its aims? Absolutely - it works and it works well. Using this software will undoubtedly speed up your reading, and it would seem that the more time you are prepared to use it, the more dramatic the results will be. And the software itself? Excellent - great interface, easy to use, intuitive, and we werent able to find a single bug or fault. Even the installation was one of the cleanest that we have ever seen - only one entry in the registry and no files written to the windows directory. If you read, and I suspect you do, this software is well worth a look! A definite 5-Q product!
