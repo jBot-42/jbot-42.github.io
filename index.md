@@ -1,4 +1,4 @@
-###AceReader 4.0
+##AceReader 4.0
 
 Summary:  Is it just me, or does there seem to be a lot more information to absorb in our lives nowadays? If I were to draw up a list of everything that I had to read and take-in on a typical day (not even including spoken word, television and other audio/visual ?stimulation?), I have a nasty feeling the list would be staggering. Maybe that?s why I always seem to be forgetting things?.
 
